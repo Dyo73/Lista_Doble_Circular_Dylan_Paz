@@ -51,3 +51,147 @@ Abrir la terminal en la carpeta del proyecto y ejecutar:
 ```bash
 javac *.java
 java Main
+
+## RESULTADOS DE CADA OPCIÓN
+
+PS C:\Users\espan\OneDrive\Desktop\lista_doble_circular> java Main
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 1
+Ingrese dato: 3
+Lista: 3 <-> (circular -> 3)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 2
+Ingrese dato: 4
+Lista: 3 <-> 4 <-> (circular -> 3)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 1
+Ingrese dato: 2
+Lista: 2 <-> 3 <-> 4 <-> (circular -> 2)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 3
+Lista: 3 <-> 4 <-> (circular -> 3)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 4
+Lista: 3 <-> (circular -> 3)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 5
+Ingrese dato a buscar: 3
+Encontrado
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 5
+Ingrese dato a buscar: 1
+No encontrado
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 1
+Ingrese dato: 2
+Lista: 2 <-> 3 <-> (circular -> 2)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 2
+Ingrese dato: 4
+Lista: 2 <-> 3 <-> 4 <-> (circular -> 2)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 6
+Lista: 2 <-> 3 <-> 4 <-> (circular -> 2)
+========================================
+ LISTA DOBLEMENTE ENLAZADA CIRCULAR
+========================================
+1. Insertar al inicio
+2. Insertar al final
+3. Eliminar al inicio
+4. Eliminar al final
+5. Buscar elemento
+6. Imprimir lista
+7. Salir
+Seleccione una opción: 7
+Saliendo...
+PS C:\Users\espan\OneDrive\Desktop\lista_doble_circular>
