@@ -4,7 +4,7 @@
 
 ---
 
-## 👤 Información del Estudiante
+## 👤 Mi información
 - *Nombre:* Dylan Paz  
 - *Carné:* 202503824  
 - *Curso:* Estructuras de Datos  
