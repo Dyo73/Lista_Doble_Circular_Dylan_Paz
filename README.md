@@ -52,6 +52,8 @@ Abrir la terminal en la carpeta del proyecto y ejecutar:
 javac *.java
 java Main
 
+---
+
 ## RESULTADOS DE CADA OPCIÓN
 
 PS C:\Users\espan\OneDrive\Desktop\lista_doble_circular> java Main
